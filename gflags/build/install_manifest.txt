@@ -1,0 +1,11 @@
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/libgflags.a
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/libgflags_nothreads.a
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/include/gflags/gflags.h
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/include/gflags/gflags_declare.h
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/include/gflags/gflags_completions.h
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/include/gflags/gflags_gflags.h
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/cmake/gflags/gflags-config.cmake
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/cmake/gflags/gflags-config-version.cmake
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/cmake/gflags/gflags-export.cmake
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/lib/cmake/gflags/gflags-export-release.cmake
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/gflags/bin/gflags_completions.sh

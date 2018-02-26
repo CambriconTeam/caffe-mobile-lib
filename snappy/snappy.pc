@@ -1,0 +1,10 @@
+prefix=/home/dell/huangyaling/MyProject/caffe-android-lib-test/android_lib/snappy
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: snappy
+Description: A fast compression/decompression library
+Version: 1.1.3
+Libs: -L${libdir} -lsnappy
+Cflags: -I${includedir}

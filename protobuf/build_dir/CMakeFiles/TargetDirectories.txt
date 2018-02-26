@@ -1,0 +1,10 @@
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/install.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/list_install_components.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/rebuild_cache.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/install/local.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/install/strip.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/edit_cache.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/libprotobuf-lite.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/libprotoc.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/libprotobuf.dir
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/protobuf/build_dir/CMakeFiles/protoc.dir

@@ -1,0 +1,472 @@
+snappy_unittest-snappy_unittest.o: snappy_unittest.cc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/math.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/android/api-level.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/limits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/limits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/limits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/syslimits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdlib.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/string.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/malloc.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/xlocale.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/alloca.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/strings.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdint.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/machine/wchar_limits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/int-ll64.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/bitsperlong.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/posix_types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/stddef.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/compiler.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/posix_types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/posix_types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/sysmacros.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/memory.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/algorithm \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/utility \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++config.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/os_defines.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/cpu_defines.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_relops.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_pair.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/move.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/concept_check.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_algobase.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/functexcept.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/exception_defines.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/cpp_type_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/type_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/numeric_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator_base_types.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator_base_funcs.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/debug/debug.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ptr_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/predefined_ops.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_algo.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cstdlib \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/algorithmfwd.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_heap.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_tempbuf.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_construct.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/new \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/exception \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/atomic_lockfree_defines.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/alloc_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/allocator.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++allocator.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/new_allocator.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/memoryfwd.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/string \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stringfwd.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/char_traits.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/postypes.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cwchar \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/wchar.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdio.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/time.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/time.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/time.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/localefwd.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++locale.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/clocale \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/locale.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/iosfwd \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cctype \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/ctype.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ostream_insert.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/cxxabi_forced.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_function.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/backward/binders.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/range_access.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_string.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/atomicity.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/gthr.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/gthr-default.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/pthread.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/signal.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/errno.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/errno.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/errno.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/errno.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/errno-base.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/sigcontext.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/signal.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/signal.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/signal-defs.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/siginfo.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/siginfo.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/ucontext.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/user.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sched.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/sched.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/atomic_word.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_string.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/vector \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_uninitialized.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_vector.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_bvector.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/vector.tcc \
+ snappy.h snappy-stubs-public.h snappy-internal.h snappy-stubs-internal.h \
+ config.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/assert.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/mman.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/mman.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/mman.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/mman-common.h \
+ snappy-test.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/iostream \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ostream \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ios \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ios_base.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_classes.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_classes.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/streambuf \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/streambuf.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_ios.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_facets.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cwctype \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/wctype.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/ctype_base.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/streambuf_iterator.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/ctype_inline.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_facets.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_ios.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ostream.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/istream \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/istream.tcc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/resource.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/resource.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/resource.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/resource.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/zlib.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/zconf.h \
+ snappy-sinksource.h
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/math.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/android/api-level.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/limits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include-fixed/syslimits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/limits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/limits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/limits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/syslimits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdlib.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/string.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/malloc.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/xlocale.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/alloca.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/strings.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdint.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdint.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/machine/wchar_limits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/bitsperlong.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/posix_types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/stddef.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/compiler.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/posix_types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/sysmacros.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/memory.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/algorithm:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/utility:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++config.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/os_defines.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/cpu_defines.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_relops.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_pair.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/move.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/concept_check.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_algobase.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/functexcept.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/exception_defines.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/cpp_type_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/type_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/numeric_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator_base_types.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator_base_funcs.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/debug/debug.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_iterator.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ptr_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/predefined_ops.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_algo.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cstdlib:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/algorithmfwd.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_heap.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_tempbuf.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_construct.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/new:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/exception:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/atomic_lockfree_defines.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/alloc_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/allocator.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++allocator.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/new_allocator.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/memoryfwd.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/string:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stringfwd.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/char_traits.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/postypes.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cwchar:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/wchar.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/stdio.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stdarg.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/time.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/time.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/time.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/localefwd.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/c++locale.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/clocale:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/locale.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/iosfwd:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cctype:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/ctype.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ostream_insert.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/cxxabi_forced.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_function.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/backward/binders.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/range_access.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_string.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ext/atomicity.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/gthr.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/gthr-default.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/pthread.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/signal.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/errno.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/errno.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/errno.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/errno.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/errno-base.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/sigcontext.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/signal.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/signal.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/signal-defs.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/siginfo.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/ucontext.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/user.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sched.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/sched.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/atomic_word.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_string.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/vector:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_uninitialized.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_vector.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/stl_bvector.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/vector.tcc:
+
+snappy.h:
+
+snappy-stubs-public.h:
+
+snappy-internal.h:
+
+snappy-stubs-internal.h:
+
+config.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/assert.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/mman.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/mman.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/mman.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/mman-common.h:
+
+snappy-test.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/iostream:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ostream:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/ios:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ios_base.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_classes.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_classes.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/streambuf:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/streambuf.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_ios.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_facets.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/cwctype:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/wctype.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/ctype_base.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/streambuf_iterator.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/arm-linux-androideabi/bits/ctype_inline.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/locale_facets.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/basic_ios.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/ostream.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/istream:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/include/c++/4.9/bits/istream.tcc:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/resource.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/linux/resource.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm/resource.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/asm-generic/resource.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/zlib.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/zconf.h:
+
+snappy-sinksource.h:

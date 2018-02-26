@@ -1,0 +1,2 @@
+/home/dell/Android/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc-ar qc ../../lib/armeabi/libopencv_calib3d_pch_dephelp.a  CMakeFiles/opencv_calib3d_pch_dephelp.dir/opencv_calib3d_pch_dephelp.cxx.o
+/home/dell/Android/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ranlib ../../lib/armeabi/libopencv_calib3d_pch_dephelp.a

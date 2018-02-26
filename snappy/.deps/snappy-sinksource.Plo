@@ -1,0 +1,25 @@
+snappy-sinksource.lo: snappy-sinksource.cc \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/string.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/android/api-level.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/malloc.h \
+ /home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/xlocale.h \
+ snappy-sinksource.h
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/string.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/android/api-level.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/lib/gcc/arm-linux-androideabi/4.9/include/stddef.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/malloc.h:
+
+/home/dell/huangyaling/MyProject/caffe-android-lib-test/toolchains/armeabi/sysroot/usr/include/xlocale.h:
+
+snappy-sinksource.h:
